@@ -20,8 +20,16 @@ According to the theory of compressed sensing, most of the signals in nature are
 I am responsible for the analog board debugging, demo video production, project acceptance, etc.
 
 
-# 相关概念
+## 相关概念
 
 模拟到信息转换器（Analog to Information Converter，AIC），不同于传统的ADC，AIC在信号稀疏先验知识下，通过欠奈奎斯特频率的采样值对信号进行采样，并能够通过采样值精确恢复原信号，并且，欠奈奎斯特采样频率直接和信号的信息相关。
 
 调制宽带转换器（Modulated Wideband Converter，MWC），一种针对稀疏宽带信号的Sub-Nyquist采样转换器，通过对稀疏宽带信号与周期信号相乘混叠，然后低速率采样，再用重构算法恢复原始信号的一种转换器。
+
+## 成果展示
+
+视频：[https://pan.baidu.com/s/1DxqXdxpbCY21bsp2fReq1A](https://pan.baidu.com/s/1DxqXdxpbCY21bsp2fReq1A), 密码: fg94
+
+![实物图 (左), 视频链接二维码 (右)](./AIC.png   "实物图 (左), 视频链接二维码 (右)")
+实物图 (左), 视频链接二维码 (右)
+
