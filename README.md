@@ -11,7 +11,7 @@
 	- [基于FPGA的电子琴(Electronic Organ)](./Creative/ElectronicOrgan/index.md)
 	- [人体健康分析仪(Human Health Analyser)](./Creative/HumanHealthAnalyzer/index.md)
 
-
+- [软件类项目](./Software/index.md)
 
 
 # Support or Contact
