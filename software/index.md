@@ -4,7 +4,7 @@
 
 ## 基于WxLua的计算器
 
-2017年基于WxLua开发的实时科学计算器, 源代码可以在 [这里](https://github.com/antsfamily/luaproj) 下载，效果图如下:
+2016年基于WxLua开发的实时科学计算器, 源代码可以在 [这里](https://github.com/antsfamily/luaproj) 下载，效果图如下:
 
 ![](./figures/Calculator0.gif)
 
